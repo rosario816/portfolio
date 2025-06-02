@@ -1,5 +1,5 @@
-import { Code, ShieldCheck, Megaphone, Sparkles } from "lucide-react";
-
+/* import { Code, ShieldCheck, Megaphone, Sparkles } from "lucide-react";
+ */
 const services = [
     {
         title: "Programação",
