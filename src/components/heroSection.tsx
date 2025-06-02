@@ -5,7 +5,12 @@ import Link from "next/link";
 
 export default function HeroSection() {
   return (
-    <section className="min-h-screen flex flex-col justify-center items-center px-4 relative overflow-hidden py-20 bg-gradient-to-b from-white to-gray-100 text-center">
+    <section
+      className="min-h-screen flex flex-col justify-center items-center px-4 relative overflow-hidden py-20 text-center bg-cover bg-center"
+      style={{
+        backgroundImage: `url('/img/1742645257603.jpeg')`,
+      }}
+    >
       <motion.h1
         className="text-5xl md:text-6xl font-extrabold text-blue-700"
         initial={{ y: -80, opacity: 0 }}
