@@ -1,5 +1,5 @@
 /* import { Code, ShieldCheck, Megaphone, Sparkles } from "lucide-react";
- */
+
 const services = [
     {
         title: "Programação",
@@ -18,4 +18,4 @@ const services = [
         desc: "Tecnologia acessível com soluções criativas e ágeis.",
     },
 ];
-
+*/
