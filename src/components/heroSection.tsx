@@ -40,7 +40,7 @@ export default function HeroSection() {
         transition={{ delay: 0.8, duration: 0.6 }}
         className="mt-8"
       >
-        <Link href="/servicos">
+        <Link href="/empresa/servicos">
           <Button className="bg-blue-700 text-white px-6 py-3 rounded-full text-sm font-semibold hover:bg-blue-800">
             Conheça nossos serviços
           </Button>
